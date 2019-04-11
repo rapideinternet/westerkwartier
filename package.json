@@ -1,0 +1,30 @@
+{
+  "name": "exposia",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rapideinternet/exposia_beneden.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rapideinternet/exposia_beneden/issues"
+  },
+  "homepage": "https://github.com/rapideinternet/exposia_beneden#readme",
+  "dependencies": {
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.11.0",
+    "yarn": "^1.15.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "webpack": "^4.29.6"
+  },
+  "description": ""
+}
