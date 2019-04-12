@@ -1,6 +1,8 @@
 /********************
 ******* Colors ******
 ********************/
+$green: #6eb53e;
+$blue: #1474b8;
 
 
 /********************
@@ -8,18 +10,91 @@
 ********************/
 
 /* Fonts */
+@font-face{
+  font-family: MFW;
+  src: url("../../assets/fonts/Marker Felt Wide.ttf");
+}
+%mfw{
+  font-family: "MFW";
+}
 
 /* Headers */
+.main-title{
+  @extend %mfw;
+  font-size: 34px;
+  text-transform: uppercase;
+}
 
-/* Tekst */
+.big-title{
+  @extend %mfw;
+  font-size: 60px;
+}
+
+.small-title{
+  @extend %mfw;
+  font-size: 18px;
+}
+
+/* Text */
+.text-bold{
+  font-weight: 700;
+}
 
 
 /********************
 ****** Buttons ******
 ********************/
+.btn-app{
+  text-transform: uppercase;
+  @extend %mfw;
+  border-radius: 7px;
+  padding: 10px 40px;
+  background-color: $green;
+  color: #fff;
+  font-size: 20px;
+}
 
+/********************
+*** Margin/padding **
+********************/
 
+.my-6{
+  margin: 4rem 0!important;
+}
+
+/********************
+******* Waves *******
+********************/
 
 /********************
 ****** Overig *******
 ********************/
+a:hover{
+  color: #fff;
+  text-decoration: none;
+}
+
+
+/* footer */
+.footer-1{
+  clip-path: ellipse(115% 78% at 35% 21%);
+  background-color: #3c3c3b;
+  color: #fff;
+}
+
+.footer-2{
+  background-color: $green;
+  color: #fff;
+  padding: 45px 0 20px;
+  margin-top: -30px;
+}
+
+/* afters*/
+.has-before:before{
+  background-color: $blue;
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 150px;
+  bottom: 0;
+}

@@ -1,125 +1,160 @@
 /********************
 ******* Colors ******
 ********************/
-@import url("https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i");
-.white {
-  color: #ffffff; }
-
-.black {
-  color: #333333; }
-
 /********************
 *** Font settings ***
 ********************/
 /* Fonts */
+@font-face {
+  font-family: MFW;
+  src: url("../../assets/fonts/Marker Felt Wide.ttf"); }
+
+.main-title, .big-title, .small-title, .btn-app {
+  font-family: "MFW"; }
+
 /* Headers */
-.h1-light, .h1-bold {
-  font-family: "Montserrat", Helvetica, Arial;
-  font-size: 50px;
-  margin: 0; }
+.main-title {
+  font-size: 34px;
+  text-transform: uppercase; }
 
-.h1-light {
-  font-weight: 300; }
+.big-title {
+  font-size: 60px; }
 
-.h1-bold {
+.small-title {
+  font-size: 18px; }
+
+/* Text */
+.text-bold {
   font-weight: 700; }
-
-/* Tekst */
-.text-big {
-  font-size: 24px;
-  font-family: "Montserrat", Helvetica, Arial;
-  font-weight: 300; }
 
 /********************
 ****** Buttons ******
 ********************/
-.btn-db, .btn-lb {
-  padding: 10px 50px;
-  border-radius: 40px;
-  border: 0;
-  font-size: 16px;
-  font-weight: 600;
+.btn-app {
+  text-transform: uppercase;
+  border-radius: 7px;
+  padding: 10px 40px;
+  background-color: #6eb53e;
   color: #fff;
-  text-transform: lowercase; }
+  font-size: 20px; }
 
-.btn-db {
-  background-color: #27347D; }
+/********************
+*** Margin/padding **
+********************/
+.my-6 {
+  margin: 4rem 0 !important; }
 
-.btn-lb {
-  background-color: #2674C2; }
-
+/********************
+******* Waves *******
+********************/
 /********************
 ****** Overig *******
 ********************/
-.drop-shadow {
-  -webkit-box-shadow: 0px 3px 9px 2px rgba(0, 0, 0, 0.32);
-  -moz-box-shadow: 0px 3px 9px 2px rgba(0, 0, 0, 0.32);
-  box-shadow: 0px 3px 9px 2px rgba(0, 0, 0, 0.32); }
+a:hover {
+  color: #fff;
+  text-decoration: none; }
 
-.home-1 {
+/* footer */
+.footer-1 {
+  clip-path: ellipse(115% 78% at 35% 21%);
+  background-color: #3c3c3b;
+  color: #fff; }
+
+.footer-2 {
+  background-color: #6eb53e;
+  color: #fff;
+  padding: 45px 0 20px;
+  margin-top: -30px; }
+
+/* afters*/
+.has-before:before {
+  background-color: #1474b8;
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 150px;
+  bottom: 0; }
+
+.jumbotron {
+  background-image: url("../../assets/img/main.jpg");
+  width: 100%;
   height: 100vh;
-  background: linear-gradient(211deg, #982481, #A31B5B, #A31B5B, #27347D, #2674C2);
-  background-size: 800% 800%;
-  animation: gradient-loop 18s ease infinite;
-  -moz-animation: gradient-loop 18s ease infinite;
-  /* Firefox */
-  -webkit-animation: gradient-loop 18s ease infinite;
-  /* Safari and Chrome */ }
+  background-size: cover;
+  margin: 0;
+  clip-path: ellipse(115% 78% at 35% 21%); }
+  .jumbotron .big-title {
+    color: #fff;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7); }
 
-@-moz-keyframes gradient-loop {
-  0% {
-    background-color: #982481;
-    background-position: 0% 82%; }
-  12.5% {
-    background-color: #A31B5B;
-    background-position: 20% 50%; }
-  25% {
-    background-color: #A31B5B;
-    background-position: 100% 50%; }
-  37.5% {
-    background-color: #27347D;
-    background-position: 20% 50%; }
-  50% {
-    background-color: #2674C2;
-    background-position: 0% 82%; }
-  62.5% {
-    background-color: #27347D;
-    background-position: 20% 50%; }
-  75% {
-    background-color: #A31B5B;
-    background-position: 100% 50%; }
-  87.5% {
-    background-color: #A31B5B;
-    background-position: 20% 50%; }
-  100% {
-    background-color: #982481;
-    background-position: 0% 82%; } }
+/* Over Ons */
+.over-ons {
+  color: #fff;
+  background-color: #1474b8;
+  clip-path: ellipse(115% 78% at 35% 21%); }
 
-@-webkit-keyframes gradient-loop {
-  0% {
-    background-color: #982481;
-    background-position: 0% 82%; }
-  12.5% {
-    background-color: #A31B5B;
-    background-position: 20% 50%; }
-  25% {
-    background-color: #A31B5B;
-    background-position: 100% 50%; }
-  37.5% {
-    background-color: #27347D;
-    background-position: 20% 50%; }
-  50% {
-    background-color: #2674C2;
-    background-position: 0% 82%; }
-  62.5% {
-    background-color: #27347D;
-    background-position: 20% 50%; }
-  75% {
-    background-color: #A31B5B;
-    background-position: 100% 50%; }
-  87.5% {
-    background-color: #A31B5B;
-    background-position: 20% 50%; }
-  100% {
-    background-color: #982481;
-    background-position: 0% 82%; } }
+/* Route */
+.route-intro p {
+  font-size: 19px;
+  line-height: 1.6; }
+
+.route-grid .route-card {
+  padding-bottom: 30px; }
+
+.route-grid img {
+  border: 8px #1474b8 solid;
+  border-radius: 10px;
+  width: 100%;
+  height: auto;
+  object-fit: cover; }
+
+.route-grid .small-text {
+  font-size: 12px; }
+
+@media (max-width: 600px) {
+  .route-grid .small-text {
+    padding: 10px; }
+  .route-grid .small-title {
+    padding: 20px 10px 0 10px;
+    margin: 0; }
+  .route-grid .route-card {
+    padding-bottom: 0; } }
+
+/* Kinder-routes */
+.kinder-routes {
+  color: #fff;
+  padding: 80px 0;
+  background-color: #6eb53e;
+  clip-path: ellipse(115% 78% at 35% 21%);
+  margin-bottom: -90px; }
+  .kinder-routes .t-1 {
+    font-size: 20px;
+    font-weight: 700; }
+  .kinder-routes .t-2 {
+    font-weight: 700;
+    font-size: 17px; }
+  .kinder-routes .t-3 {
+    font-weight: 500;
+    font-style: italic;
+    font-size: 15px; }
+  .kinder-routes img {
+    width: 275px;
+    position: absolute;
+    right: 400px;
+    margin-top: -70px; }
+
+/*map*/
+.map img {
+  width: 100%;
+  object-fit: cover;
+  height: 900px; }
+
+/*Hoe-werkt-het*/
+.hoe-werkt-het {
+  background-color: #1474b8;
+  color: #fff; }
+  .hoe-werkt-het .t-1 {
+    padding: 5px 0; }
+  .hoe-werkt-het .hoe-werkt-het-card {
+    padding: 10px 0; }
+    .hoe-werkt-het .hoe-werkt-het-card img {
+      width: 100%; }

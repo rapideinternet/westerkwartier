@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Exposia</title>
+    <title>Westerkwartier</title>
     <?php // Fonts ?>
 
     <?php // Fontawesome ?>

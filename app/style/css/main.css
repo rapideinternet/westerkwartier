@@ -1,57 +1,76 @@
 /********************
 ******* Colors ******
 ********************/
-@import url("https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i");
-.white {
-  color: #ffffff; }
-
-.black {
-  color: #333333; }
-
 /********************
 *** Font settings ***
 ********************/
 /* Fonts */
+@font-face {
+  font-family: MFW;
+  src: url("../../assets/fonts/Marker Felt Wide.ttf"); }
+
+.main-title, .big-title, .small-title, .btn-app {
+  font-family: "MFW"; }
+
 /* Headers */
-.h1-light, .h1-bold {
-  font-family: "Montserrat", Helvetica, Arial;
-  font-size: 50px;
-  margin: 0; }
+.main-title {
+  font-size: 34px;
+  text-transform: uppercase; }
 
-.h1-light {
-  font-weight: 300; }
+.big-title {
+  font-size: 60px; }
 
-.h1-bold {
+.small-title {
+  font-size: 18px; }
+
+/* Text */
+.text-bold {
   font-weight: 700; }
-
-/* Tekst */
-.text-big {
-  font-size: 24px;
-  font-family: "Montserrat", Helvetica, Arial;
-  font-weight: 300; }
 
 /********************
 ****** Buttons ******
 ********************/
-.btn-db, .btn-lb {
-  padding: 10px 50px;
-  border-radius: 40px;
-  border: 0;
-  font-size: 16px;
-  font-weight: 600;
+.btn-app {
+  text-transform: uppercase;
+  border-radius: 7px;
+  padding: 10px 40px;
+  background-color: #6eb53e;
   color: #fff;
-  text-transform: lowercase; }
+  font-size: 20px; }
 
-.btn-db {
-  background-color: #27347D; }
+/********************
+*** Margin/padding **
+********************/
+.my-6 {
+  margin: 4rem 0 !important; }
 
-.btn-lb {
-  background-color: #2674C2; }
-
+/********************
+******* Waves *******
+********************/
 /********************
 ****** Overig *******
 ********************/
-.drop-shadow {
-  -webkit-box-shadow: 0px 3px 9px 2px rgba(0, 0, 0, 0.32);
-  -moz-box-shadow: 0px 3px 9px 2px rgba(0, 0, 0, 0.32);
-  box-shadow: 0px 3px 9px 2px rgba(0, 0, 0, 0.32); }
+a:hover {
+  color: #fff;
+  text-decoration: none; }
+
+/* footer */
+.footer-1 {
+  clip-path: ellipse(115% 78% at 35% 21%);
+  background-color: #3c3c3b;
+  color: #fff; }
+
+.footer-2 {
+  background-color: #6eb53e;
+  color: #fff;
+  padding: 45px 0 20px;
+  margin-top: -30px; }
+
+/* afters*/
+.has-before:before {
+  background-color: #1474b8;
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 150px;
+  bottom: 0; }
