@@ -83,6 +83,10 @@
   }
 }
 
+.kinder-routes-grid{
+  padding: 140px 0 30px;
+}
+
 /*map*/
 .map{
   img{
@@ -107,4 +111,18 @@
   }
 }
 
+/* verkooppunten */
+.verkooppunten{
+  h1{
+    color: $blue;
+  }
+  ul{
+    width: 30%;
+    float: left;
+  }
+  li{
+    list-style: none;
+    padding-bottom: 20px;
+  }
+}
 
