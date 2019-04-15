@@ -42,25 +42,25 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item active">
-                        <a class="nav-link" href="#">Home</a>
+                        <a class="nav-link" href="/">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Fietsroutes</a>
+                        <a class="nav-link" href="../page-fietsroutes.php">Fietsroutes</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Wandelroutes</a>
+                        <a class="nav-link" href="../page-wandelroutes.php">Wandelroutes</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Kinderroutes</a>
+                        <a class="nav-link" href="../page-kinderroutes.php">Kinderroutes</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Hoe werkt het?</a>
+                        <a class="nav-link" href="../page-hoe-werkt-het.php">Hoe werkt het?</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Over ons</a>
+                        <a class="nav-link" href="../page-over-ons.php">Over ons</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Contact</a>
+                        <a class="nav-link" href="../page-contact.php">Contact</a>
                     </li>
                 </ul>
             </div>

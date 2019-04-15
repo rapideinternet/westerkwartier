@@ -16,7 +16,7 @@
         </div>
     </section>
     <section id="over-ons">
-        <div class="container-fluid over-ons">
+        <div class="container-fluid over-ons ">
             <div class="container">
                 <div class="row">
                     <div class="col-12 text-center my-6">
@@ -34,32 +34,30 @@
         </div>
     </section>
     <section data-aos="fade-up" id="routes">
-        <div class="container-fluid">
-            <div class="extra-wave"></div>
-            <div class="container">
-                <div class="row route-into">
-                    <div class="col-12 my-6">
-                        <h1 class="main-title">Routes</h1>
-                        <p class="text-bold">
-                            Ten westen ligt de stadstuin van de stad Groningen: het Westerkwartier. Dit gebied heeft een
-                            interessante geschiedenis en een mooi
-                            afwisselend landschap. Het heeft zelfde het oudste cultuurlandschap van West Europa! De
-                            nieuwe fiets- en wandelroutes leiden u langs
-                            de parels in het Westerkwartier. Er zijn vijf fietsroutes uitgezet, vier daarvan in lengte
-                            variërend van 50 tot circa 65 kilometer.
-                            Er is ook nog een hele lange fietsroute, de Rietdalroute. Deze fietsroute is maarliefst 120
-                            km lang! Bij iedere fietsroute kunt u kiezen voor
-                            een routeverkorting. Naast de fietsroutes zijn er wandelroutes uitgezet. Deze variëren in
-                            lengte van 7 tot 16 kilometer. De speurtochten
-                            voor kinderen zijn 2 tot 4 kilometer lang. Lees verder en ontdek de parels in het
-                            Westerkwartier.
-                        </p>
-                    </div>
+        <div class="container mt-5">
+            <div class="row route-into">
+                <div class="col-12">
+                    <h1 class="main-title">Routes</h1>
+                    <p class="text-bold">
+                        Ten westen ligt de stadstuin van de stad Groningen: het Westerkwartier. Dit gebied heeft een
+                        interessante geschiedenis en een mooi
+                        afwisselend landschap. Het heeft zelfde het oudste cultuurlandschap van West Europa! De
+                        nieuwe fiets- en wandelroutes leiden u langs
+                        de parels in het Westerkwartier. Er zijn vijf fietsroutes uitgezet, vier daarvan in lengte
+                        variërend van 50 tot circa 65 kilometer.
+                        Er is ook nog een hele lange fietsroute, de Rietdalroute. Deze fietsroute is maarliefst 120
+                        km lang! Bij iedere fietsroute kunt u kiezen voor
+                        een routeverkorting. Naast de fietsroutes zijn er wandelroutes uitgezet. Deze variëren in
+                        lengte van 7 tot 16 kilometer. De speurtochten
+                        voor kinderen zijn 2 tot 4 kilometer lang. Lees verder en ontdek de parels in het
+                        Westerkwartier.
+                    </p>
                 </div>
-                <?php include "layout/partials/fietsroutes.php" ?>
-                <?php include "layout/partials/wandelroutes.php" ?>
-                <img src="">
             </div>
+            <?php include "layout/partials/fietsroutes.php" ?>
+            <?php include "layout/partials/wandelroutes.php" ?>
+            <img src="">
+        </div>
     </section>
     <section data-aos="fade-right" id="kinder-routes">
         <div class="container-fluid kinder-routes">
