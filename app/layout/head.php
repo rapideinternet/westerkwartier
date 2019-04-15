@@ -56,12 +56,6 @@
                     <li class="nav-item">
                         <a class="nav-link" href="../page-hoe-werkt-het.php">Hoe werkt het?</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="../page-over-ons.php">Over ons</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="../page-contact.php">Contact</a>
-                    </li>
                 </ul>
             </div>
         </div>
