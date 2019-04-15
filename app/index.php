@@ -24,7 +24,7 @@
                         <p>
                             De thema ets- en wandelroutes van Parels in het Westerkwartier zijn er gekomen op initiatief van de Ondernemers
                             Vereniging Toerisme Westerkwartier en Folkersma Routing en Sign. Met behulp van een subsidie van de Provincie
-                            Groningen en nanciële bijdragen van de voormalige gemeenten Grootegast, Leek, Marum en Zuidhorn zijn deze routes
+                            Groningen en financiële bijdragen van de voormalige gemeenten Grootegast, Leek, Marum en Zuidhorn zijn deze routes
                             tot stand gekomen. We hopen met deze routes het verblijf van inwoners van het gebied en de mensen van buitenaf een
                             stukje aangenamer maakt.
                         </p>
