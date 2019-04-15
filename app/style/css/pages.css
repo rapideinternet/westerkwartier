@@ -1,0 +1,123 @@
+@charset "UTF-8";
+/********************
+******* Colors ******
+********************/
+/********************
+*** Font settings ***
+********************/
+/* Fonts */
+@font-face {
+  font-family: MFW;
+  src: url("../../assets/fonts/Marker Felt Wide.ttf"); }
+
+.main-title, .big-title, .small-title, .btn-app, .navbar-brand {
+  font-family: "MFW"; }
+
+/* Headers */
+.main-title {
+  font-size: 34px;
+  text-transform: uppercase; }
+
+.big-title {
+  font-size: 60px; }
+
+.small-title {
+  font-size: 18px; }
+
+/* Text */
+.text-bold {
+  font-weight: 700; }
+
+/********************
+****** Buttons ******
+********************/
+.btn-app {
+  text-transform: uppercase;
+  border-radius: 7px;
+  padding: 10px 40px;
+  background-color: #6eb53e;
+  color: #fff;
+  font-size: 20px; }
+
+/********************
+*** Margin/padding **
+********************/
+.my-6 {
+  margin: 4rem 0 !important; }
+
+.pd-0 {
+  padding: 0 !important; }
+
+/********************
+****** Overig *******
+********************/
+a:hover {
+  color: #fff;
+  text-decoration: none; }
+
+.route-card a {
+  color: #000; }
+
+.route-card a:hover {
+  color: #000; }
+
+/* afters*/
+.has-before:before {
+  background-color: #1474b8;
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 150px;
+  bottom: 0; }
+
+/********************
+****** footer *******
+********************/
+.footer-1 {
+  clip-path: ellipse(115% 78% at 35% 21%);
+  background-color: #3c3c3b;
+  color: #fff; }
+
+.footer-2 {
+  background-color: #6eb53e;
+  color: #fff;
+  padding: 45px 0 20px;
+  margin-top: -30px; }
+
+/********************
+****** header *******Ø
+********************/
+.navbar-brand {
+  font-size: 18px;
+  padding-left: 20px;
+  color: #fff !important; }
+  @media (max-width: 1100px) {
+    .navbar-brand {
+      font-size: 17px;
+      line-height: 1.8; } }
+
+.bg-light {
+  background-color: #1474b8 !important; }
+
+.nav-link {
+  color: #fff !important; }
+
+@media (max-width: 1100px) {
+  .navbar-toggler {
+    float: left; } }
+
+/********************
+*** Fietsroutes *****
+********************/
+.page-routes, .single-routes {
+  padding: 0;
+  background-color: #1474b8;
+  color: #fff; }
+  .page-routes img, .single-routes img {
+    width: 100%;
+    height: 50vh;
+    object-fit: cover;
+    clip-path: ellipse(115% 78% at 35% 21%); }
+
+.single-routes p {
+  line-height: 1.6; }

@@ -10,33 +10,34 @@ $blue: #1474b8;
 ********************/
 
 /* Fonts */
-@font-face{
+@font-face {
   font-family: MFW;
   src: url("../../assets/fonts/Marker Felt Wide.ttf");
 }
-%mfw{
+
+%mfw {
   font-family: "MFW";
 }
 
 /* Headers */
-.main-title{
+.main-title {
   @extend %mfw;
   font-size: 34px;
   text-transform: uppercase;
 }
 
-.big-title{
+.big-title {
   @extend %mfw;
   font-size: 60px;
 }
 
-.small-title{
+.small-title {
   @extend %mfw;
   font-size: 18px;
 }
 
 /* Text */
-.text-bold{
+.text-bold {
   font-weight: 700;
 }
 
@@ -44,7 +45,7 @@ $blue: #1474b8;
 /********************
 ****** Buttons ******
 ********************/
-.btn-app{
+.btn-app {
   text-transform: uppercase;
   @extend %mfw;
   border-radius: 7px;
@@ -58,43 +59,81 @@ $blue: #1474b8;
 *** Margin/padding **
 ********************/
 
-.my-6{
-  margin: 4rem 0!important;
+.my-6 {
+  margin: 4rem 0 !important;
 }
 
-/********************
-******* Waves *******
-********************/
+.pd-0 {
+  padding: 0 !important;
+}
 
 /********************
 ****** Overig *******
 ********************/
-a:hover{
+a:hover {
   color: #fff;
   text-decoration: none;
 }
 
-
-/* footer */
-.footer-1{
-  clip-path: ellipse(115% 78% at 35% 21%);
-  background-color: #3c3c3b;
-  color: #fff;
-}
-
-.footer-2{
-  background-color: $green;
-  color: #fff;
-  padding: 45px 0 20px;
-  margin-top: -30px;
+.route-card{
+  a{
+    color: #000;
+  }
+  a:hover{
+    color: #000;
+  }
 }
 
 /* afters*/
-.has-before:before{
+.has-before:before {
   background-color: $blue;
   content: "";
   position: absolute;
   width: 100%;
   height: 150px;
   bottom: 0;
+}
+
+/********************
+****** footer *******
+********************/
+.footer-1 {
+  clip-path: ellipse(115% 78% at 35% 21%);
+  background-color: #3c3c3b;
+  color: #fff;
+}
+
+.footer-2 {
+  background-color: $green;
+  color: #fff;
+  padding: 45px 0 20px;
+  margin-top: -30px;
+}
+
+/********************
+****** header *******Ø
+********************/
+.navbar-brand {
+  font-size: 18px;
+  padding-left: 20px;
+  color: #fff !important;
+  @extend %mfw;
+  @media (max-width: 1100px) {
+    font-size: 17px;
+    line-height: 1.8;
+  }
+}
+
+.bg-light{
+  background-color: $blue!important;
+}
+
+.nav-link{
+  color: #fff !important;
+}
+
+.navbar-toggler {
+  @media (max-width: 1100px) {
+    float: left;
+  }
 }
