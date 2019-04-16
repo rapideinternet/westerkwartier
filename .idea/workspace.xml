@@ -2,22 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d65b8d34-9291-448e-9e1b-6aee53a4aa1f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/assets/img/fietsroutes/monniken.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/img/fietsroutes/monniken.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/img/fietsroutes/rietdal.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/img/fietsroutes/rietdal.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/img/fietsroutes/veen.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/img/fietsroutes/veen.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/img/fietsroutes/wierdenland.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/img/fietsroutes/wierdenland.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/img/kinderroutes/boeren.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/img/kinderroutes/boeren.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/img/kinderroutes/kikkers.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/img/kinderroutes/kikkers.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/img/kinderroutes/leven.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/img/kinderroutes/leven.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/img/kinderroutes/ridders.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/img/kinderroutes/ridders.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/img/main.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/img/main.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/img/map.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/img/map.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/img/wandelroutes/bakkerom.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/img/wandelroutes/bakkerom.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/img/wandelroutes/doe.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/img/wandelroutes/doe.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/img/wandelroutes/marum.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/img/wandelroutes/marum.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/img/wandelroutes/monniken.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/img/wandelroutes/monniken.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/img/wandelroutes/wierden.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/img/wandelroutes/wierden.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/fietsroutes/leven.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/img/fietsroutes/leven.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/layout/partials/fietsroutes.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout/partials/fietsroutes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/layout/partials/kinderroutes.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout/partials/kinderroutes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/layout/partials/wandelroutes.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout/partials/wandelroutes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page-hoe-werkt-het.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/page-hoe-werkt-het.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/style/css/homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/style/css/homepage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/style/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/style/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/style/css/pages.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/style/css/pages.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/style/scss/homepage.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/style/scss/homepage.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/style/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/style/scss/main.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,9 +22,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
+    <splitter split-orientation="horizontal" split-proportion="0.4793983">
       <split-first>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/page-contact.php">
               <provider selected="true" editor-type-id="text-editor">
@@ -38,11 +34,38 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="442">
-                  <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
+                <state relative-caret-position="969">
+                  <caret line="66" column="41" lean-forward="true" selection-start-line="66" selection-start-column="41" selection-end-line="66" selection-end-column="41" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/layout/partials/kinderroutes.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="306">
+                  <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/layout/partials/fietsroutes.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="525">
+                  <caret line="93" column="34" selection-start-line="93" selection-start-column="34" selection-end-line="93" selection-end-column="34" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/layout/partials/wandelroutes.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="357">
+                  <caret line="21" column="85" selection-start-line="21" selection-start-column="85" selection-end-line="21" selection-end-column="85" />
                 </state>
               </provider>
             </entry>
@@ -59,12 +82,21 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/style/scss/main.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="442">
-                  <caret line="80" column="3" selection-start-line="80" selection-start-column="3" selection-end-line="80" selection-end-column="3" />
+                <state relative-caret-position="391">
+                  <caret line="23" column="15" lean-forward="true" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/style/scss/homepage.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="663">
+                  <caret line="102" column="20" selection-start-line="102" selection-start-column="20" selection-end-line="102" selection-end-column="20" />
                 </state>
               </provider>
             </entry>
@@ -72,8 +104,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/style/scss/pages.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="629">
-                  <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
+                <state relative-caret-position="459">
+                  <caret line="27" column="15" lean-forward="true" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
                 </state>
               </provider>
             </entry>
@@ -88,13 +120,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/style/scss/homepage.scss" />
         <option value="$PROJECT_DIR$/app/layout/footer.php" />
-        <option value="$PROJECT_DIR$/app/style/scss/main.scss" />
         <option value="$PROJECT_DIR$/app/style/style.css" />
         <option value="$PROJECT_DIR$/app/pages/fietsroutes/wierdenland.php" />
         <option value="$PROJECT_DIR$/app/pages/fietsroutes/fietsroutes.php" />
-        <option value="$PROJECT_DIR$/app/layout/partials/fietsroutes.php" />
         <option value="$PROJECT_DIR$/app/wierdenland.php" />
         <option value="$PROJECT_DIR$/app/fietsroute-wierenland.php" />
         <option value="$PROJECT_DIR$/app/fietsroute-wierdenland.php" />
@@ -109,22 +138,25 @@
         <option value="$PROJECT_DIR$/app/wandelroute-van-wierden-naar-borgen.php" />
         <option value="$PROJECT_DIR$/app/wandelroute-monniken-en-borgen.php" />
         <option value="$PROJECT_DIR$/app/wandelroute-bakkerom.php" />
-        <option value="$PROJECT_DIR$/app/layout/partials/wandelroutes.php" />
         <option value="$PROJECT_DIR$/app/wandelroute-doezumermieden.php" />
         <option value="$PROJECT_DIR$/app/wandelroute-tussen-marum.php" />
         <option value="$PROJECT_DIR$/app/page-fietsroutes.php" />
         <option value="$PROJECT_DIR$/app/page-kinderroutes.php" />
-        <option value="$PROJECT_DIR$/app/layout/partials/kinderroutes.php" />
         <option value="$PROJECT_DIR$/app/kinderroute-leven-met-het-water.php" />
         <option value="$PROJECT_DIR$/app/kinderroute-het-boerenleven.php" />
         <option value="$PROJECT_DIR$/app/kinderroute-ridders-van-nienoord.php" />
         <option value="$PROJECT_DIR$/app/kinderroute-kikkers-en-vreemde-vogels.php" />
         <option value="$PROJECT_DIR$/app/hoe-werkt-het.php" />
-        <option value="$PROJECT_DIR$/app/page-hoe-werkt-het.php" />
         <option value="$PROJECT_DIR$/app/style/scss/pages.scss" />
         <option value="$PROJECT_DIR$/app/page-contact.php" />
         <option value="$PROJECT_DIR$/app/layout/head.php" />
+        <option value="$PROJECT_DIR$/app/style/scss/main.scss" />
         <option value="$PROJECT_DIR$/app/index.php" />
+        <option value="$PROJECT_DIR$/app/layout/partials/kinderroutes.php" />
+        <option value="$PROJECT_DIR$/app/layout/partials/fietsroutes.php" />
+        <option value="$PROJECT_DIR$/app/layout/partials/wandelroutes.php" />
+        <option value="$PROJECT_DIR$/app/page-hoe-werkt-het.php" />
+        <option value="$PROJECT_DIR$/app/style/scss/homepage.scss" />
       </list>
     </option>
   </component>
@@ -139,7 +171,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,10 +189,31 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="layout" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="westerkwartier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="westerkwartier" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+              <item name="partials" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="westerkwartier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="westerkwartier" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="style" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="westerkwartier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="westerkwartier" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="style" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -208,18 +260,19 @@
       <updated>1555053388442</updated>
       <workItem from="1555053389876" duration="8788000" />
       <workItem from="1555062434233" duration="12548000" />
-      <workItem from="1555313879988" duration="20771000" />
+      <workItem from="1555313879988" duration="21370000" />
+      <workItem from="1555400415532" duration="2477000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42107000" />
+    <option name="totallyTimeSpent" value="45183000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18423855" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.185836" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Gulp" order="2" side_tool="true" />
       <window_info id="npm" order="3" side_tool="true" />
@@ -272,23 +325,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/wierdenland.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/style/scss/homepage.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/layout/partials/fietsroutes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1496">
-          <caret line="88" column="34" selection-start-line="88" selection-start-column="34" selection-end-line="88" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/wierdenland.php" />
     <entry file="file://$PROJECT_DIR$/app/fietsroute-wierdenland.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -366,24 +403,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/layout/partials/wandelroutes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="76" column="67" selection-start-line="76" selection-start-column="67" selection-end-line="76" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/page-kinderroutes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/layout/partials/kinderroutes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="50" column="24" lean-forward="true" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -422,34 +445,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/page-hoe-werkt-het.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/page-over-ons.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/style/scss/pages.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/page-over-ons.php" />
     <entry file="file://$PROJECT_DIR$/app/page-contact.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/style/scss/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="80" column="3" selection-start-line="80" selection-start-column="3" selection-end-line="80" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -460,10 +460,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/style/scss/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="15" lean-forward="true" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
+        <state relative-caret-position="969">
+          <caret line="66" column="41" lean-forward="true" selection-start-line="66" selection-start-column="41" selection-end-line="66" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/layout/partials/kinderroutes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/layout/partials/fietsroutes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="93" column="34" selection-start-line="93" selection-start-column="34" selection-end-line="93" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/style/scss/pages.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="15" lean-forward="true" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/page-hoe-werkt-het.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="53" selection-start-line="37" selection-start-column="53" selection-end-line="37" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/style/scss/homepage.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="102" column="20" selection-start-line="102" selection-start-column="20" selection-end-line="102" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/layout/partials/wandelroutes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="85" selection-start-line="21" selection-start-column="85" selection-end-line="21" selection-end-column="85" />
         </state>
       </provider>
     </entry>

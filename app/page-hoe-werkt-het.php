@@ -21,10 +21,10 @@
                         <div class="row">
                             <div data-aos="fade-right" class="col-12 hoe-werkt-het-card">
                                 <div class="row">
-                                    <div class="col-12 col-md-1">
+                                    <div class="col-2 col-md-1">
                                         <img src="assets/img/drawings/bike.png">
                                     </div>
-                                    <div class="col-12 col-md-11">
+                                    <div class="col-10 col-md-11">
                                         De fietsroutes zijn gemakkelijk te volgen met behulp van de etsknooppunten. Op
                                         ieder knooppunt komt u een
                                         thema routebordje tegen. Voor alle fietsroutes zijn ook routeverkortingen
@@ -35,10 +35,10 @@
                             </div>
                             <div  data-aos="fade-left" class="col-12 hoe-werkt-het-card">
                                 <div class="row">
-                                    <div class="col-12 col-md-1">
+                                    <div class="col-2 col-md-1">
                                         <img src="assets/img/drawings/walk.png">
                                     </div>
-                                    <div class="col-12 col-md-11">
+                                    <div class="col-10 col-md-11">
                                         De wandelroutes zijn met gemak te volgen met behulp van de wandelknooppunten.
                                         Voor de kinderroutes zijn er speciale doe-bladen gemaakt. Deze zijn te
                                         downloaden op deze website of af te halen bij

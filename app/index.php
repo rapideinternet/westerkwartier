@@ -3,7 +3,7 @@
         <div class="jumbotron jumbotron-fluid">
             <div class="container">
                 <div class="row align-items-center justify-content-center h-100">
-                    <div class="col-12 col-md-5 text-center">
+                    <div class="col-12 col-md-12 col-xl-5 text-center">
                         <header class="pb-3">
                             <h1 class="big-title">Parels in het Westerkwartier</h1>
                         </header>
@@ -111,10 +111,10 @@
                         <div class="row">
                             <div data-aos="fade-right" class="col-12 hoe-werkt-het-card">
                                 <div class="row">
-                                    <div class="col-12 col-md-1">
+                                    <div class="col col-md-1">
                                         <img src="assets/img/drawings/bike.png">
                                     </div>
-                                    <div class="col-12 col-md-11">
+                                    <div class="col-10 col-md-11">
                                         De fietsroutes zijn gemakkelijk te volgen met behulp van de etsknooppunten. Op
                                         ieder knooppunt komt u een
                                         thema routebordje tegen. Voor alle fietsroutes zijn ook routeverkortingen
@@ -125,10 +125,10 @@
                             </div>
                             <div  data-aos="fade-left" class="col-12 hoe-werkt-het-card">
                                 <div class="row">
-                                    <div class="col-12 col-md-1">
+                                    <div class="col col-md-1">
                                         <img src="assets/img/drawings/walk.png">
                                     </div>
-                                    <div class="col-12 col-md-11">
+                                    <div class="col-10 col-md-11">
                                         De wandelroutes zijn met gemak te volgen met behulp van de wandelknooppunten.
                                         Voor de kinderroutes zijn er speciale doe-bladen gemaakt. Deze zijn te
                                         downloaden op deze website of af te halen bij
@@ -149,7 +149,7 @@
                 <div class="col-12">
                     <h1 class="main-title">Verkooppunten</h1>
                     <div class="row text-bold">
-                        <ul class="col-md-4">
+                        <ul class="col-12 col-md-4">
                             <li>Fruitteeltbedrijf Oudebosch - Niehove<br/>
                                 Groningen buiten - Zuidhorn
                             </li>
@@ -166,8 +166,7 @@
                                 MFC Grijpskerk - Grijpskerk
                             </li>
                         </ul>
-                        <ul class="col-md-4">
-
+                        <ul class="col-12 col-md-4">
                             <li>Het kerkje Harkema - Den Ham<br/>
                                 Blik- trommel en oudheden museum - Niezijl
                             </li>
@@ -184,8 +183,7 @@
                                 Bakkerscafe Jager - Grijpskerk
                             </li>
                         </ul>
-                        <ul class="col-md-4">
-
+                        <ul class="col-12 col-md-4">
                             <li>Struisvogelhouderij fam. de Kreij - Boerakker<br/>
                                 Slagerij van Wijk
                             </li>
