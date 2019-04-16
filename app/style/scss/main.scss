@@ -41,6 +41,12 @@ $blue: #1474b8;
   font-weight: 700;
 }
 
+@media (max-width: 600px){
+  .big-title{
+    font-size: 35px;
+  }
+}
+
 
 /********************
 ****** Buttons ******

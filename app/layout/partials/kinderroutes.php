@@ -2,10 +2,10 @@
     <div class="col-12 col-md-6 route-card">
         <a href="../../kinderroute-leven-met-het-water.php">
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-12 col-md-12 col-xl-4">
                     <img data-aos="flip-left" src="../../assets/img/kinderroutes/leven.jpg" alt="...">
                 </div>
-                <div class="col-md-8">
+                <div class="col-xl-8">
                     <h5 class="small-title">Leven met het water</h5>
                     <p class="small-text">
                         Niehove is een heel oud dorpje en ligt hoger dan het land er
@@ -20,10 +20,10 @@
     <div class="col-12 col-md-6 route-card">
         <a href="../../kinderroute-het-boerenleven.php">
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-12 col-md-12 col-xl-4">
                     <img data-aos="flip-left" src="../../assets/img/kinderroutes/boeren.jpg" alt="...">
                 </div>
-                <div class="col-md-8">
+                <div class="col-xl-8">
                     <h5 class="small-title">Het boerenleven</h5>
                     <p class="small-text">
                         In de Coendersborg woonden vroeger hele deftige mensen
@@ -38,10 +38,10 @@
     <div class="col-12 col-md-6 route-card">
         <a href="../../kinderroute-ridders-van-nienoord.php">
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-12 col-md-12 col-xl-4">
                     <img data-aos="flip-left" src="../../assets/img/kinderroutes/ridders.jpg" alt="...">
                 </div>
-                <div class="col-md-8">
+                <div class="col-xl-8">
                     <h5 class="small-title">Ridders van Nienoord</h5>
                     <p class="small-text">
                         De borg van Nienoord lijkt wel op een kasteel compleet met
@@ -56,10 +56,10 @@
     <div class="col-12 col-md-6 route-card">
         <a href="../../kinderroute-kikkers-en-vreemde-vogels.php">
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-12 col-md-12 col-xl-4">
                     <img data-aos="flip-left" src="../../assets/img/kinderroutes/kikkers.jpg" alt="...">
                 </div>
-                <div class="col-md-8">
+                <div class="col-xl-8">
                     <h5 class="small-title">Kikkers en vreemde vogels</h5>
                     <p class="small-text">
                         Bij de Eendekooi van Oldekerk ga je dwars door de natuur

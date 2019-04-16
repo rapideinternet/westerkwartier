@@ -28,6 +28,10 @@
 .text-bold {
   font-weight: 700; }
 
+@media (max-width: 600px) {
+  .big-title {
+    font-size: 35px; } }
+
 /********************
 ****** Buttons ******
 ********************/
@@ -150,6 +154,11 @@ a:hover {
   .route-grid .route-card {
     padding-bottom: 0; } }
 
+@media (max-width: 1100px) {
+  .route-grid .route-card img {
+    height: 200px;
+    margin-bottom: 10px; } }
+
 /* Kinder-routes */
 .kinder-routes {
   color: #fff;
@@ -172,6 +181,12 @@ a:hover {
     position: absolute;
     right: 400px;
     margin-top: -70px; }
+  @media (max-width: 1100px) {
+    .kinder-routes img {
+      display: none; } }
+  @media (max-width: 1100px) {
+    .kinder-routes img {
+      right: 0; } }
 
 .kinder-routes-grid {
   padding: 140px 0 30px; }

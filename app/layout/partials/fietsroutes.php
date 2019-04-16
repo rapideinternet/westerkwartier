@@ -11,10 +11,10 @@
     <div class="col-12 col-md-6 route-card">
         <a href="../../fietsroute-wierdenland.php">
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-12 col-md-12 col-xl-4">
                     <img data-aos="flip-left" src="../../assets/img/fietsroutes/wierdenland.jpg" alt="...">
                 </div>
-                <div class="col-md-8">
+                <div class="col-xl-8">
                     <h5 class="small-title">Fietsroute Wierdenland</h5>
                     <p class="small-text">
                         Deze route gaat door het oudste cultuurlandschap van
@@ -30,10 +30,10 @@
     <div class="col-12 col-md-6 route-card">
         <a href="../../fietsroute-monniken-en-water.php">
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-12 col-md-12 col-xl-4">
                     <img data-aos="flip-left" src="../../assets/img/fietsroutes/monniken.jpg" alt="...">
                 </div>
-                <div class="col-md-8">
+                <div class="col-xl-8">
                     <h5 class="small-title">Fietsroute Monniken en Water</h5>
                     <p class="small-text">
                         Deze route gaat door het gebied waar de monniken van het
@@ -50,10 +50,10 @@
     <div class="col-12 col-md-6 route-card">
         <a href="../../fietsroute-leven-van-het-land.php">
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-12 col-md-12 col-xl-4">
                     <img data-aos="flip-left" src="../../assets/img/fietsroutes/leven.jpg" alt="...">
                 </div>
-                <div class="col-md-8">
+                <div class="col-xl-8">
                     <h5 class="small-title">Fietsroute Leven van het land</h5>
                     <p class="small-text">
                         Deze route brengt u langs onder meer een bijzonder
@@ -68,10 +68,10 @@
     <div class="col-12 col-md-6 route-card">
         <a href="../../fietsroute-veen-en-borgen.php">
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-12 col-md-12 col-xl-4">
                     <img data-aos="flip-left" src="../../assets/img/fietsroutes/veen.jpg" alt="...">
                 </div>
-                <div class="col-md-8">
+                <div class="col-xl-8">
                     <h5 class="small-title">Fietsroute Veen en borgen</h5>
                     <p class="small-text">
                         Deze route gaat door een landschap dat is gevormd door
@@ -88,10 +88,10 @@
     <div class="col-12 col-md-6 route-card">
         <a href="../../fietsroute-rietdal.php">
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-12 col-md-12 col-xl-4">
                     <img data-aos="flip-left" src="../../assets/img/fietsroutes/rietdal.jpg" alt="...">
                 </div>
-                <div class="col-md-8">
+                <div class="col-xl-8">
                     <h5 class="small-title">Fietsroute Rietdal</h5>
                     <p class="small-text">
                         Het Westerkwartier wordt al sinds de vroegste prehistorie

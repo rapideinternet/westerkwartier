@@ -13,10 +13,10 @@
     <div class="col-12 col-md-6 route-card">
         <a href="../../wandelroute-van-wierden-naar-borgen.php">
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-12 col-md-12 col-xl-4">
                     <img data-aos="flip-left" src="../../assets/img/wandelroutes/wierden.JPG" alt="...">
                 </div>
-                <div class="col-md-8">
+                <div class="col-xl-8">
                     <h5 class="small-title">WANDELROUTE VAN WIERDEN NAAR BORGEN</h5>
                     <p class="small-text">
                         Dit is een fascinerende wandelroute door het oudste cultuurlandschap van Nederland. Ideaal om de
@@ -32,10 +32,10 @@
     <div class="col-12 col-md-6 route-card">
         <a href="../../wandelroute-monniken-en-borgen.php">
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-12 col-md-12 col-xl-4">
                     <img data-aos="flip-left" src="../../assets/img/wandelroutes/monniken.JPG" alt="...">
                 </div>
-                <div class="col-md-8">
+                <div class="col-xl-8">
                     <h5 class="small-title">WANDELROUTE MONNIKEN EN BORGEN</h5>
                     <p class="small-text">
                         Deze wandelroute staat in het teken van monniken en borgen. U komt door het kloosterdorp Aduard
@@ -51,10 +51,10 @@
     <div class="col-12 col-md-6 route-card">
         <a href="../../wandelroute-bakkerom.php">
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-12 col-md-12 col-xl-4">
                     <img data-aos="flip-left" src="../../assets/img/wandelroutes/bakkerom.jpg" alt="...">
                 </div>
-                <div class="col-md-8">
+                <div class="col-xl-8">
                     <h5 class="small-title">WANDELROUTE BAKKEROM</h5>
                     <p class="small-text">
                         Deze wandelroute brengt u op plaatsen die al in de prehistorie bewoond zijn geweest.
@@ -67,10 +67,10 @@
     <div class="col-12 col-md-6 route-card">
         <a href="../../wandelroute-tussen-marum.php">
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-12 col-md-12 col-xl-4">
                     <img data-aos="flip-left" src="../../assets/img/wandelroutes/marum.JPG" alt="...">
                 </div>
-                <div class="col-md-8">
+                <div class="col-xl-8">
                     <h5 class="small-title">Wandelroute Tussen Marum en Tolbert</h5>
                     <p class="small-text">
                         Wandelt u graag door een beschut en boomrijk landschap?
@@ -84,10 +84,10 @@
     <div class="col-12 col-md-6 route-card">
         <a href="../../wandelroute-doezumermieden.php">
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-12 col-md-12 col-xl-4">
                     <img data-aos="flip-left" src="../../assets/img/wandelroutes/doe.JPG" alt="...">
                 </div>
-                <div class="col-md-8">
+                <div class="col-xl-8">
                     <h5 class="small-title">Wandelroute Doezumermieden</h5>
                     <p class="small-text">
                         Deze route voert u door het gevarieerde landschap van
