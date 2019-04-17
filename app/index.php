@@ -11,12 +11,12 @@
 
 
                             <div class="col-md-12" style="padding: 12px;">
-                                <a href="https://play.google.com/store/apps/details?id=nl.beleefnl.rapide" class="btn-app">
+                                <a href="/#download" class="btn-app">
                                     Download de gratis android app
                                 </a>
                             </div>
                             <div class="col-md-12" style="padding: 12px;">
-                                <a href="https://itunes.apple.com/app/id1456365331" class="btn-app">
+                                <a href="/#download" class="btn-app">
                                     Download de gratis IOS app
                                 </a>
                             </div>
@@ -32,13 +32,22 @@
                     <div class="row">
                         <div class="col-12 text-center my-6">
                             <h1 class="main-title">Over Ons</h1>
-                            <p>
+                            <p id="download">
                                 De thema fiets- en wandelroutes van Parels in het Westerkwartier zijn er gekomen op initiatief van de Ondernemers
                                 Vereniging Toerisme Westerkwartier en Folkersma Routing en Sign. Met behulp van een subsidie van de Provincie
                                 Groningen en financiële bijdragen van de voormalige gemeenten Grootegast, Leek, Marum en Zuidhorn zijn deze routes
                                 tot stand gekomen. We hopen met deze routes het verblijf van inwoners van het gebied en de mensen van buitenaf een
                                 stukje aangenamer maakt.
                             </p>
+                        </div>
+                        <div class="col-12 text-center my-2 pbot">
+                            <h1 class="main-title">Download de App</h1>
+                            <a href="https://itunes.apple.com/app/id1456365331">
+                                <img class="download_button" src="assets/img/app/apple.png">
+                            </a>
+                            <a href="https://play.google.com/store/apps/details?id=nl.beleefnl.rapide">
+                               <img class="download_button" src="assets/img/app/google.png">
+                            </a>
                         </div>
                     </div>
                 </div>

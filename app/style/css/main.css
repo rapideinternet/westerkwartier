@@ -43,6 +43,12 @@
   color: #fff;
   font-size: 20px; }
 
+.download_button {
+  max-width: 200px; }
+
+.pbot {
+  padding-bottom: 40px; }
+
 /********************
 *** Margin/padding **
 ********************/
