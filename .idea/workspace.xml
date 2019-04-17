@@ -3,17 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d65b8d34-9291-448e-9e1b-6aee53a4aa1f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/img/fietsroutes/leven.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/img/fietsroutes/leven.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/layout/partials/fietsroutes.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout/partials/fietsroutes.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/layout/partials/kinderroutes.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout/partials/kinderroutes.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/layout/partials/wandelroutes.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout/partials/wandelroutes.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/page-hoe-werkt-het.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/page-hoe-werkt-het.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/style/css/homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/style/css/homepage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/style/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/style/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/style/css/pages.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/style/css/pages.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/style/scss/homepage.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/style/scss/homepage.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/style/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/style/scss/main.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,8 +28,17 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="969">
-                  <caret line="66" column="41" lean-forward="true" selection-start-line="66" selection-start-column="41" selection-end-line="66" selection-end-column="41" />
+                <state relative-caret-position="-39">
+                  <caret line="125" column="32" selection-start-line="125" selection-start-column="32" selection-end-line="125" selection-end-column="32" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/page-hoe-werkt-het.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="357">
+                  <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
                 </state>
               </provider>
             </entry>
@@ -47,7 +47,7 @@
             <entry file="file://$PROJECT_DIR$/app/layout/partials/kinderroutes.php">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="306">
-                  <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+                  <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
                 </state>
               </provider>
             </entry>
@@ -55,17 +55,17 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/layout/partials/fietsroutes.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="525">
+                <state relative-caret-position="1581">
                   <caret line="93" column="34" selection-start-line="93" selection-start-column="34" selection-end-line="93" selection-end-column="34" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/layout/partials/wandelroutes.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="357">
-                  <caret line="21" column="85" selection-start-line="21" selection-start-column="85" selection-end-line="21" selection-end-column="85" />
+                <state relative-caret-position="816">
+                  <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
                 </state>
               </provider>
             </entry>
@@ -73,8 +73,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/layout/head.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="595">
-                  <caret line="35" column="51" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
+                <state relative-caret-position="695">
+                  <caret line="58" column="21" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
                 </state>
               </provider>
             </entry>
@@ -87,7 +87,7 @@
             <entry file="file://$PROJECT_DIR$/app/style/scss/main.scss">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="391">
-                  <caret line="23" column="15" lean-forward="true" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+                  <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
                 </state>
               </provider>
             </entry>
@@ -95,8 +95,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/style/scss/homepage.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="663">
-                  <caret line="102" column="20" selection-start-line="102" selection-start-column="20" selection-end-line="102" selection-end-column="20" />
+                <state relative-caret-position="476">
+                  <caret line="91" column="20" selection-start-line="91" selection-start-column="20" selection-end-line="91" selection-end-column="20" />
                 </state>
               </provider>
             </entry>
@@ -105,7 +105,7 @@
             <entry file="file://$PROJECT_DIR$/app/style/scss/pages.scss">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="459">
-                  <caret line="27" column="15" lean-forward="true" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+                  <caret line="27" column="15" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
                 </state>
               </provider>
             </entry>
@@ -151,12 +151,12 @@
         <option value="$PROJECT_DIR$/app/page-contact.php" />
         <option value="$PROJECT_DIR$/app/layout/head.php" />
         <option value="$PROJECT_DIR$/app/style/scss/main.scss" />
-        <option value="$PROJECT_DIR$/app/index.php" />
         <option value="$PROJECT_DIR$/app/layout/partials/kinderroutes.php" />
         <option value="$PROJECT_DIR$/app/layout/partials/fietsroutes.php" />
         <option value="$PROJECT_DIR$/app/layout/partials/wandelroutes.php" />
-        <option value="$PROJECT_DIR$/app/page-hoe-werkt-het.php" />
         <option value="$PROJECT_DIR$/app/style/scss/homepage.scss" />
+        <option value="$PROJECT_DIR$/app/index.php" />
+        <option value="$PROJECT_DIR$/app/page-hoe-werkt-het.php" />
       </list>
     </option>
   </component>
@@ -261,18 +261,21 @@
       <workItem from="1555053389876" duration="8788000" />
       <workItem from="1555062434233" duration="12548000" />
       <workItem from="1555313879988" duration="21370000" />
-      <workItem from="1555400415532" duration="2477000" />
+      <workItem from="1555400415532" duration="2626000" />
+      <workItem from="1555404974995" duration="140000" />
+      <workItem from="1555496706727" duration="264000" />
+      <workItem from="1555509763392" duration="727000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45183000" />
+    <option name="totallyTimeSpent" value="46463000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.185836" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19062833" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Gulp" order="2" side_tool="true" />
       <window_info id="npm" order="3" side_tool="true" />
@@ -453,66 +456,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/layout/head.php">
+    <entry file="file://$PROJECT_DIR$/app/layout/partials/kinderroutes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="51" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
+        <state relative-caret-position="306">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/layout/partials/fietsroutes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1581">
+          <caret line="93" column="34" selection-start-line="93" selection-start-column="34" selection-end-line="93" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/layout/partials/wandelroutes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/style/scss/main.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
-          <caret line="23" column="15" lean-forward="true" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="66" column="41" lean-forward="true" selection-start-line="66" selection-start-column="41" selection-end-line="66" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/layout/partials/kinderroutes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/layout/partials/fietsroutes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="93" column="34" selection-start-line="93" selection-start-column="34" selection-end-line="93" selection-end-column="34" />
+          <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/style/scss/pages.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
-          <caret line="27" column="15" lean-forward="true" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/page-hoe-werkt-het.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" column="53" selection-start-line="37" selection-start-column="53" selection-end-line="37" selection-end-column="53" />
+          <caret line="27" column="15" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/style/scss/homepage.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="102" column="20" selection-start-line="102" selection-start-column="20" selection-end-line="102" selection-end-column="20" />
+        <state relative-caret-position="476">
+          <caret line="91" column="20" selection-start-line="91" selection-start-column="20" selection-end-line="91" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/layout/partials/wandelroutes.php">
+    <entry file="file://$PROJECT_DIR$/app/layout/head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="695">
+          <caret line="58" column="21" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-39">
+          <caret line="125" column="32" selection-start-line="125" selection-start-column="32" selection-end-line="125" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/page-hoe-werkt-het.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="21" column="85" selection-start-line="21" selection-start-column="85" selection-end-line="21" selection-end-column="85" />
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
         </state>
       </provider>
     </entry>
