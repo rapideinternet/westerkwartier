@@ -123,7 +123,7 @@
                                 route door middel van geluidsfragmenten en 360 graden foto’s!
                             </p>
                             <div class="row">
-                                <div data-aos="fade-right" class="col-12 hoe-werkt-het-card">
+                                <div class="col-12 hoe-werkt-het-card">
                                     <div class="row">
                                         <div class="col col-md-1">
                                             <img src="assets/img/drawings/bike.png">
@@ -137,7 +137,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div  data-aos="fade-left" class="col-12 hoe-werkt-het-card">
+                                <div class="col-12 hoe-werkt-het-card">
                                     <div class="row">
                                         <div class="col col-md-1">
                                             <img src="assets/img/drawings/walk.png">
