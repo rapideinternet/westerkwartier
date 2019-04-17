@@ -10,7 +10,7 @@
                             Deze route gaat door het gebied waar de monniken van het Sint Bernardusklooster actief zijn geweest. Dit klooster, dat in Aduard stond,
                             was in de middeleeuwen zeer invloedrijk. De monniken hielden zich bezig met het inpolderen van land, het aanleggen van kanalen en
                             sluizen, landbouw en handel. Sporen van die arbeid komt u onderweg tegen. Op uw tocht maakt u ook kennis met de nieuwe tijd. U
-                            etst bijvoorbeeld over het Van Starkenborghkanaal, een onmisbare schakel voor de moderne scheepvaart. Het klooster in Aduard mag
+                            fietst bijvoorbeeld over het Van Starkenborghkanaal, een onmisbare schakel voor de moderne scheepvaart. Het klooster in Aduard mag
                             dan zijn afgebroken, kerken zijn er nog genoeg. Die hebben soms een merkwaardige geschiedenis, zoals u zult merken. Bij Harkema
                             passeert u een kerkje dat eigenhandig is gebouwd door een boer. Wat een monnikenwerk.
                         </p>

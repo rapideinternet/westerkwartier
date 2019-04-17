@@ -8,7 +8,7 @@
                         <h1 class="main-title">FIETSROUTE RIETDAL</h1>
                         <p>
                             Het Westerkwartier wordt al sinds de vroegste prehistorie bewoond. In het noorden behoorde het wierdenland van de Marne en
-                            Middag-Humsterland toen tot de dichtstbevolkte gebieden van West-Europa. In het zuiden zijn sporen aangetroen van de
+                            Middag-Humsterland toen tot de dichtstbevolkte gebieden van West-Europa. In het zuiden zijn sporen aangetroffen van de
                             hunebedbouwers en zijn grafheuvels uit de bronstijd bekend. Na een tijdelijke ontvolking raakte het Westerkwartier in de
                             middeleeuwen weer bewoond. De nieuwe bewoners ontgonnen het gebied landinwaarts vanuit de oeverwallen van de Oude Riet. Aan
                             beide zijden van dit water liggen zandruggen waarop reeksen van dorpen zijn ontstaan. Ook ontstond in deze periode het kenmerkende

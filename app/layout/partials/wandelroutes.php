@@ -17,7 +17,7 @@
                     <img data-aos="flip-left" src="../../assets/img/wandelroutes/wierden.JPG" alt="...">
                 </div>
                 <div class="col-xl-8">
-                    <h5 class="small-title">WANDELROUTE VAN WIERDEN NAAR BORGEN</h5>
+                    <h5 class="small-title">Wandelroute van Wierden naar Borgen</h5>
                     <p class="small-text">
                         Dit is een fascinerende wandelroute door het oudste cultuurlandschap van Nederland. Ideaal om de
                         hectiek van
@@ -36,7 +36,7 @@
                     <img data-aos="flip-left" src="../../assets/img/wandelroutes/monniken.JPG" alt="...">
                 </div>
                 <div class="col-xl-8">
-                    <h5 class="small-title">WANDELROUTE MONNIKEN EN BORGEN</h5>
+                    <h5 class="small-title">Wandelroute Monniken en Borgen</h5>
                     <p class="small-text">
                         Deze wandelroute staat in het teken van monniken en borgen. U komt door het kloosterdorp Aduard
                         en wandelt langs de restanten van
@@ -55,7 +55,7 @@
                     <img data-aos="flip-left" src="../../assets/img/wandelroutes/bakkerom.jpg" alt="...">
                 </div>
                 <div class="col-xl-8">
-                    <h5 class="small-title">WANDELROUTE BAKKEROM</h5>
+                    <h5 class="small-title">Wandelroute Bakkerom</h5>
                     <p class="small-text">
                         Deze wandelroute brengt u op plaatsen die al in de prehistorie bewoond zijn geweest.
                         Rendierjagers trokken er rond en mensen van de

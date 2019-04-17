@@ -3,7 +3,7 @@
         <h1 class="small-title">Fietsroutes</h1>
         <p>
             Er zijn vijf fietsroute uitgezet, vier daarvan in lengte variërend van 50 tot circa 65 kilometer. Per route kunt u echter ook kiezen
-            voor een verkorte versie. Één van de etsroutes betreft de Rietdalroute. Deze fietsroute van circa 120 km lang is opgedeeld in
+            voor een verkorte versie. Één van de fietsroutes betreft de Rietdalroute. Deze fietsroute van circa 120 km lang is opgedeeld in
             vier tracés. Tijdens het fietsen van deze route krijgt u een goed beeld van de diversiteit aan landschappen binnen het
             Westerkwartier.
         </p>
@@ -18,7 +18,7 @@
                     <h5 class="small-title">Fietsroute Wierdenland</h5>
                     <p class="small-text">
                         Deze route gaat door het oudste cultuurlandschap van
-                        Nederland, het Middag-Humsterland. U etst door ongerept
+                        Nederland, het Middag-Humsterland. U fietst door ongerept
                         boerenland. Onderweg passeert u schilderachtige dorpen
                         waar het goed toeven is. Dit gebied is vanouds blootgesteld
                         aan de grillen van de zee.
@@ -98,7 +98,7 @@
                         bewoond. In het noorden behoorde het wierdenland van de
                         Marne en Middag-Humsterland toen tot de dichtstbevolkte
                         gebieden van West-Europa. In het zuiden zijn sporen
-                        aangetroen van de hunebedbouwers en zijn grafheuvels
+                        aangetroffen van de hunebedbouwers en zijn grafheuvels
                         uit de bronstijd bekend.
                     </p>
                 </div>
