@@ -13,7 +13,7 @@
                             Groningen en Friesland. U wandelt langs uitgegraven
                             petgaten, over de voormalige legakkers en door moerasbos.
                         </p>
-                        <a href="page-wandelroutes.php" class="btn-app">Terug naar wandelroutes</a>
+                        <a href="/#Wandelroutes" class="btn-app">Terug naar wandelroutes</a>
                     </div>
                 </div>
             </div>

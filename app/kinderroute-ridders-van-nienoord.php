@@ -12,7 +12,7 @@
                             Nienoord is van alles te zien en te beleven. Er is ook een
                             pretpark en een zwembad!
                         </p>
-                        <a href="page-kinderroutes.php" class="btn-app">Terug naar kinderroutes</a>
+                        <a href="/#kinder-routes" class="btn-app">Terug naar kinderroutes</a>
                     </div>
                 </div>
             </div>

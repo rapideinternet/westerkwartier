@@ -14,7 +14,7 @@
                             petgaten en legakkers aan de vervening met de baggerbeugel. Op veel plekken wordt het landschap gedomineerd door houtsingels.
                             Die vormen samen met de verkaveling het unieke coulisselandschap van het Westerkwartier.
                         </p>
-                        <a href="page-fietsroutes.php" class="btn-app">Terug naar fietsroutes</a>
+                        <a href="/#fietsroutes" class="btn-app">Terug naar fietsroutes</a>
 
                     </div>
                 </div>

@@ -1,4 +1,4 @@
-<div class="row route-grid kinder-routes-grid">
+<div class="row route-grid kinder-routes-grid" id="Kinderroutes">
     <div class="col-12 col-md-6 route-card">
         <a href="../../kinderroute-leven-met-het-water.php">
             <div class="row">

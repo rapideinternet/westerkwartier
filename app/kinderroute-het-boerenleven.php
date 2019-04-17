@@ -12,7 +12,7 @@
                             leven hier allerlei dieren. Misschien zie je wel herten of een
                             ringslang!
                         </p>
-                        <a href="page-kinderroutes.php" class="btn-app">Terug naar kinderroutes</a>
+                        <a href="/#kinder-routes" class="btn-app">Terug naar kinderroutes</a>
                     </div>
                 </div>
             </div>

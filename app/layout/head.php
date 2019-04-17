@@ -32,7 +32,7 @@
 <nav class="navbar navbar-expand-xl navbar-light bg-light fixed-top">
     <div class="container">
         <div class="col-12 col-md-4">
-            <a class="navbar-brand" href="#">Parels in het westerkwartier</a>
+            <a class="navbar-brand" href="#">Parels in het Westerkwartier</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
                     aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -45,16 +45,16 @@
                         <a class="nav-link" href="/">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="../page-fietsroutes.php">Fietsroutes</a>
+                        <a class="nav-link" href="/#fietsroutes">Fietsroutes</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="../page-wandelroutes.php">Wandelroutes</a>
+                        <a class="nav-link" href="/#Wandelroutes">Wandelroutes</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="../page-kinderroutes.php">Kinderroutes</a>
+                        <a class="nav-link" href="/#kinder-routes">Kinderroutes</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="../page-hoe-werkt-het.php">Hoe werkt het?</a>
+                        <a class="nav-link" href="/#hoe-werkt-het"">Hoe werkt het?</a>
                     </li>
                 </ul>
             </div>
