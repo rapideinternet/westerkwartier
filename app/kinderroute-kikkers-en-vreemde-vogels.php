@@ -12,7 +12,7 @@
                             nog veel meer tegen. Wie durft de hangbrug over het water
                             over te steken?
                         </p>
-                        <a href="page-kinderroutes.php" class="btn-app">Terug naar kinderroutes</a>
+                        <a href="/#kinder-routes" class="btn-app">Terug naar kinderroutes</a>
                     </div>
                 </div>
             </div>

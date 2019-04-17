@@ -14,7 +14,7 @@
                             dan zijn afgebroken, kerken zijn er nog genoeg. Die hebben soms een merkwaardige geschiedenis, zoals u zult merken. Bij Harkema
                             passeert u een kerkje dat eigenhandig is gebouwd door een boer. Wat een monnikenwerk.
                         </p>
-                        <a href="page-fietsroutes.php" class="btn-app">Terug naar fietsroutes</a>
+                        <a href="/#fietsroutes" class="btn-app">Terug naar fietsroutes</a>
 
                     </div>
                 </div>

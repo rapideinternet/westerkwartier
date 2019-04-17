@@ -12,7 +12,7 @@
                             met een grote landschappelijke en cultuurhistorische waarde. U komt ook door een gebied waar veenontginning plaatsvond. De
                             petgaten bij Bakkerom herinneren hier nog aan.
                         </p>
-                        <a href="page-wandelroutes.php" class="btn-app">Terug naar wandelroutes</a>
+                        <a href="/#Wandelroutes" class="btn-app">Terug naar wandelroutes</a>
                     </div>
                 </div>
             </div>

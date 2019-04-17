@@ -45,16 +45,16 @@
                         <a class="nav-link" href="/">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="../page-fietsroutes.php">Fietsroutes</a>
+                        <a class="nav-link" href="/#fietsroutes">Fietsroutes</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="../page-wandelroutes.php">Wandelroutes</a>
+                        <a class="nav-link" href="/#Wandelroutes">Wandelroutes</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="../page-kinderroutes.php">Kinderroutes</a>
+                        <a class="nav-link" href="/#kinder-routes">Kinderroutes</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="../page-hoe-werkt-het.php">Hoe werkt het?</a>
+                        <a class="nav-link" href="/#hoe-werkt-het"">Hoe werkt het?</a>
                     </li>
                 </ul>
             </div>

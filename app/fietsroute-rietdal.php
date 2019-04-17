@@ -14,7 +14,7 @@
                             beide zijden van dit water liggen zandruggen waarop reeksen van dorpen zijn ontstaan. Ook ontstond in deze periode het kenmerkende
                             coulisselandschap met haar langgerekte kavels.
                         </p>
-                        <a href="page-fietsroutes.php" class="btn-app">Terug naar fietsroutes</a>
+                        <a href="/#fietsroutes" class="btn-app">Terug naar fietsroutes</a>
 
                     </div>
                 </div>

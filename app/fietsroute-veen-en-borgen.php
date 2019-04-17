@@ -14,7 +14,7 @@
                             borgbewoner was niet te vergelijken met dat van een veenarbeider of tuinman. De borgbewoner leefde uiteraard veel luxer. Toch ging
                             ook het leven op de borg niet altijd over rozen, zoals u zult merken.
                         </p>
-                        <a href="page-fietsroutes.php" class="btn-app">Terug naar fietsroutes</a>
+                        <a href="/#fietsroutes" class="btn-app">Terug naar fietsroutes</a>
 
                     </div>
                 </div>

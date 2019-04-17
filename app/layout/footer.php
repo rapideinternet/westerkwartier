@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-12 py-5 text-center">
                     <h1 class="main-title">Parels in het Westerkwartier</h1>
-                    <span class="small-title"><p>westerkwartier@folkersma.nl</p></span>
+                    <span class="small-title"><a style="color:white" href="mailto:westerkwartier@folkersma.nl">westerkwartier@folkersma.nl</a></span>
                 </div>
             </div>
         </div>
@@ -13,7 +13,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 text-center">
-                    <i class="fab fa-facebook"></i>
+                    <a style="color:white" target="_blank" href="https://www.facebook.com/parelsinhetwesterkwartier/">
+                        <i class="fab fa-facebook"></i>
+                    </a>
                 </div>
             </div>
         </div>
