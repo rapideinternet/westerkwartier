@@ -12,7 +12,7 @@
                             Maar er is meer. De route leidt u ook langs het Van Starkenborghkanaal, zo belangrijk voor de moderne scheepvaart. U passeert
                             bovendien het dorp Den Horn, ontstaan langs een dijk.
                         </p>
-                        <a href="page-wandelroutes.php" class="btn-app">Terug naar wandelroutes</a>
+                        <a href="/#Wandelroutes" class="btn-app">Terug naar wandelroutes</a>
                     </div>
                 </div>
             </div>

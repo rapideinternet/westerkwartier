@@ -12,7 +12,7 @@
                             een klein eilandje! Wie is er als eerste helemaal rond de kerk
                             gerend?
                         </p>
-                        <a href="page-kinderroutes.php" class="btn-app">Terug naar kinderroutes</a>
+                        <a href="/#kinder-routes" class="btn-app">Terug naar kinderroutes</a>
                     </div>
                 </div>
             </div>

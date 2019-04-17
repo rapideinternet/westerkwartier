@@ -14,7 +14,7 @@
                             en Ezinge. Vanaf de 11de eeuw hielden dijken het water op afstand. Om binnen de dijken droge voeten te houden bouwden de mensen
                             zijlen en gemalen. Deze kunt u ook aanschouwen tijdens deze route.
                         </p>
-                        <a href="page-fietsroutes.php" class="btn-app">Terug naar fietsroutes</a>
+                        <a href="/#fietsroutes" class="btn-app">Terug naar fietsroutes</a>
                     </div>
                 </div>
             </div>

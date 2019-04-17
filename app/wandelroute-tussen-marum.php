@@ -12,7 +12,7 @@
                             traject voert door het karakteristieke coulisselandschap van
                             het zuidelijk Westerkwartier.
                         </p>
-                        <a href="page-wandelroutes.php" class="btn-app">Terug naar wandelroutes</a>
+                        <a href="/#Wandelroutes" class="btn-app">Terug naar wandelroutes</a>
                     </div>
                 </div>
             </div>
