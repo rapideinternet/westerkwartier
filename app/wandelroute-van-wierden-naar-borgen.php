@@ -5,7 +5,7 @@
             <div class="container single-fietsroutes py-5">
                 <div class="row">
                     <div class="col-12 text-center">
-                        <h1 class="main-title">WANDELROUTE VAN WIERDEN NAAR BORGEN</h1>
+                        <h1 class="main-title">Wandelroute van Wierden naar Borgen</h1>
                         <p>
                             Deze route brengt u langs onder meer een bijzonder heideveld, petgaten en legakkers. Dit was ooit een onherbergzame streek waar
                             mensen amper konden overleven. De eerste mensen kwamen hier al in de prehistorie naar toe. Vanaf de middeleeuwen gingen de
