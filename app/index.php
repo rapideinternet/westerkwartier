@@ -8,18 +8,11 @@
                                 <h1 class="big-title">Parels in het Westerkwartier</h1>
                             </header>
                             <div class="row">
-
-
-                            <div class="col-md-12" style="padding: 12px;">
-                                <a href="/#download" class="btn-app">
-                                    Download de gratis android app
-                                </a>
-                            </div>
-                            <div class="col-md-12" style="padding: 12px;">
-                                <a href="/#download" class="btn-app">
-                                    Download de gratis IOS app
-                                </a>
-                            </div>
+                                <div class="col-md-12" style="padding: 12px;">
+                                    <a href="/#download" class="btn-app">
+                                        Download de gratis app
+                                    </a>
+                                </div>
                             </div>
                         </div>
                     </div>
