@@ -5,7 +5,7 @@
             <div class="container single-fietsroutes py-5">
                 <div class="row">
                     <div class="col-12 text-center">
-                        <h1 class="main-title">WANDELROUTE BAKKEROM</h1>
+                        <h1 class="main-title">Wandelroute Bakkerom</h1>
                         <p>
                             Deze wandelroute brengt u op plaatsen die al in de prehistorie bewoond zijn geweest. Rendierjagers trokken er rond en mensen van de
                             trechterbekercultuur hielden er vee. In de omgeving van Boerakker ziet u bovendien sporen van de Oude Riet, een eeuwenoude rivier

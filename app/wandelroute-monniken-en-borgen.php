@@ -5,7 +5,7 @@
             <div class="container single-fietsroutes py-5">
                 <div class="row">
                     <div class="col-12 text-center">
-                        <h1 class="main-title">WANDELROUTE MONNIKEN EN BORGEN</h1>
+                        <h1 class="main-title">Wandelroute Monniken en Borgen</h1>
                         <p>
                             Deze wandelroute staat in het teken van monniken en borgen. U komt door het kloosterdorp Aduard en wandelt langs de restanten van
                             de Hanckemaborg in Zuidhorn.

@@ -33,7 +33,7 @@
                         <div class="col-12 text-center my-6">
                             <h1 class="main-title">Over Ons</h1>
                             <p>
-                                De thema ets- en wandelroutes van Parels in het Westerkwartier zijn er gekomen op initiatief van de Ondernemers
+                                De thema fiets- en wandelroutes van Parels in het Westerkwartier zijn er gekomen op initiatief van de Ondernemers
                                 Vereniging Toerisme Westerkwartier en Folkersma Routing en Sign. Met behulp van een subsidie van de Provincie
                                 Groningen en financiële bijdragen van de voormalige gemeenten Grootegast, Leek, Marum en Zuidhorn zijn deze routes
                                 tot stand gekomen. We hopen met deze routes het verblijf van inwoners van het gebied en de mensen van buitenaf een
@@ -114,7 +114,7 @@
                                 Om de routes te volgen kunt u gebruiken maken van het routeboekje en de gratis app!<br/>
                                 In het routeboekje staan alle routes weergegeven. Iedere route heeft een eigen detailkaart
                                 met daarop de knooppunten
-                                die u dient te volgen. De wandel- en etsroutes lopen namelijk allemaal over het ets- of
+                                die u dient te volgen. De wandel- en fietsroutes lopen namelijk allemaal over het fiets- of
                                 wandelknooppunten systeem.
                                 De gratis app voor Android of iOS bevat ook deze routes met vaste startpunten en voegt nog
                                 meer beleving toe aan uw
@@ -127,7 +127,7 @@
                                             <img src="assets/img/drawings/bike.png">
                                         </div>
                                         <div class="col-10 col-md-11">
-                                            De fietsroutes zijn gemakkelijk te volgen met behulp van de etsknooppunten. Op
+                                            De fietsroutes zijn gemakkelijk te volgen met behulp van de fietsknooppunten. Op
                                             ieder knooppunt komt u een
                                             thema routebordje tegen. Voor alle fietsroutes zijn ook routeverkortingen
                                             mogelijk. Deze worden aangegeven op de
